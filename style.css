@@ -1,0 +1,196 @@
+/*
+
+Site: FÃ£ Clube Oficial - Bar do AviÃ£o
+Modelo: 2017
+
+*/
+
+
+
+/* ------- CORES ---------
+
+ *   COLOR: #0081f4
+     COLOR: #FFFFFF
+
+ * ----------------------*/
+
+
+
+
+
+/* GENRAL STYLES */
+
+a
+
+{
+
+	-webkit-transition: all 0.2s ease-out;
+
+	-moz-transition: all 0.2s ease-out;
+
+	-o-transition: all 0.2s ease-out;
+
+	transition: all 0.2s cubic-bezier(0.9,0.03,0.69,0.22) 0s;
+
+}
+
+#logovdesigner {
+	width:190px;
+	height:20px;
+	position:fixed;
+	right:10px;
+	bottom:10px;
+	z-index:9999;
+}
+
+
+/* Header Site BAR 2017*/
+
+.site-nav {
+
+	margin:0 auto;
+
+	width:100%;
+
+	height:50px;
+
+	position:fixed;
+	
+	bottom:0;
+	
+	left:0;
+
+
+
+}
+
+	.site-nav ul {
+
+		width:960px;
+
+		margin:0 auto;
+
+
+		list-style:none;
+
+		height:50px;
+
+		text-align:left;
+
+	}
+
+		.site-nav ul li {
+
+			display:inline-block;
+
+			height:50px;
+
+		}.site-nav ul li:last-child { margin-right:40px; }
+
+			.site-nav ul li a {
+
+				display:block;
+
+				color:#FFFFFF;
+
+				text-transform:uppercase;
+
+				text-decoration:none;
+
+				font-size:1.5em;
+
+				padding:10px;
+
+				border:none;
+				
+				font-family: 'Exo 2', sans-serif;
+
+			}
+
+			.site-nav ul li a:hover {color: rgb(0, 129, 244);}
+
+.site-header-content .logo-header {
+
+	display:block;
+	
+	text-align:center;
+
+	height:300px;
+
+	padding:30px 0;
+
+	border:none;
+
+}
+
+
+
+/* Footer */
+
+.site-footer {
+
+width:100%;
+
+height:60px;
+
+background: color: 000;
+
+position:fixed;
+
+z-index:999;
+
+bottom:0;
+
+left:0;
+
+background-color: #002052;
+}
+
+	.site-footer .container_03 {
+
+		position:relative;
+
+		height:70px;
+
+	}
+
+	.site-footer .container_03 .logo-footer {
+
+			width:650px;
+
+			height:200px;
+
+			position:absolute;
+
+			bottom:0;
+
+			right:-60px;
+
+		}
+		    
+			
+			
+
+		}
+
+
+		
+	.site-footer .footer-info {
+
+		font-size:0.8em;
+
+		padding-top:10px;
+
+	}
+
+
+
+.site-content { margin-bottom:0px; }
+
+
+
+
+
+
+
+
